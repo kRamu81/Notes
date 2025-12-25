@@ -59,46 +59,46 @@ This repository is continuously updated with new content and improvements.
 Happy Learning! 😊
 ## 🌐 Frontend Technologies (Order Wise)
 
-### 1️⃣ HTML   https://github.com/kRamu81/Notes/tree/main/HTML  
+ 1️⃣ HTML   https://github.com/kRamu81/Notes/tree/main/HTML  
 
-### 2️⃣ CSS  
+2️⃣ CSS  
  https://github.com/kRamu81/Notes/tree/main/CSS  
 
-### 3️⃣ Bootstrap   https://github.com/kRamu81/Notes/tree/main/Bootstrap  
+ 3️⃣ Bootstrap   https://github.com/kRamu81/Notes/tree/main/Bootstrap  
 
-### 4️⃣ JavaScript   https://github.com/kRamu81/Notes/tree/main/Javascript  
+ 4️⃣ JavaScript   https://github.com/kRamu81/Notes/tree/main/Javascript  
 
-### 5️⃣ Git & GitHub   https://github.com/kRamu81/Notes/tree/main/Git%26GitHub  
+5️⃣ Git & GitHub   https://github.com/kRamu81/Notes/tree/main/Git%26GitHub  
 
-### 6️⃣ React   https://github.com/kRamu81/Notes/tree/main/React  
+6️⃣ React   https://github.com/kRamu81/Notes/tree/main/React  
 
 ## ☕ Java Notes (Order Wise)
 
-###  Java   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/java 
+ Java   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/java 
 
-###  OOPs   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Oops  
+ OOPs   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Oops  
 
-###  Exception Handling   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Exception%20Handling  
+ Exception Handling   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Exception%20Handling  
 
-###  Java Collection Framework   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Java%20Collection%20framework  
+  Java Collection Framework   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Java%20Collection%20framework  
 
-### Multi Threading   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Multi%20Threading  
+ Multi Threading   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Multi%20Threading  
 
-### File Handling   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/File%20Handling  
+ File Handling   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/File%20Handling  
 
-### JDBC   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/JDBC  
+JDBC   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/JDBC  
 
-###  Servlet & JSP  
+ Servlet & JSP  
  https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Servlet%20%26%20Jsp  
 
-###  MVC (Concept)   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/MVC  
+MVC (Concept)   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/MVC  
 
-### Spring Framework   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20Framework  
+Spring Framework   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20Framework  
 
-### Spring MVC   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20MVC  
+Spring MVC   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20MVC  
 
-### REST API   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Rest%20API  
+ REST API   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Rest%20API  
 
-###  Spring Boot   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20boot  
+ Spring Boot   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20boot  
 
-### Microservices   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Microservices
+ Microservices   https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Microservices
