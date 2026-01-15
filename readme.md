@@ -1,17 +1,4 @@
-
-# 📘 Notes Repository
-
-This repository contains **well-structured learning notes and resources** for  
 **Frontend, Java Backend, and Computer Science fundamentals**.
-
-It is created for:
-- Students
-- Beginners
-- Interview preparation
-- Quick revision
-- Self-learning reference
-
----
 
 ## 📂 Contents of This Repository
 
@@ -26,6 +13,7 @@ It is created for:
 ---
 
 ### ☕ Java & Backend Development
+![Java RoadmapDiagram](Assets/IMG_20251224_173150.jpg)
 - Core Java Programming
 - Java Notes (OOPs, Collections, JDBC, Multithreading, etc.)
 - Spring Framework
@@ -45,18 +33,10 @@ It is created for:
 
 ---
 
-### 🚀 Purpose
-- Organized learning path
-- Easy-to-access notes
-- Practical and interview-oriented preparation
-- Helpful for Full Stack Development journey
-
----
-
 ### 📌 Note
 This repository is continuously updated with new content and improvements.
 
-Happy Learning! 😊
+Happy Learning! 
 ## 🌐 Frontend Technologies (Order Wise)
 
  1️⃣ HTML   https://github.com/kRamu81/Notes/tree/main/HTML  
@@ -71,6 +51,11 @@ Happy Learning! 😊
 5️⃣ Git & GitHub   https://github.com/kRamu81/Notes/tree/main/Git%26GitHub  
 
 6️⃣ React   https://github.com/kRamu81/Notes/tree/main/React  
+
+## Database (Order Wise)
+
+ SQL 
+https://github.com/kRamu81/Notes/tree/main/SQL 
 
 ## ☕ Java Notes (Order Wise)
 
