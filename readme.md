@@ -3,26 +3,10 @@
 
 ## 📂 Contents of This Repository
 
-### 🌐 Frontend Technologies
 ![Java RoadmapDiagram](Assets/fsd1.png)
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React
-- Git & GitHub
 
----
-
-### ☕ Java & Backend Development
 ![Java RoadmapDiagram](Assets/IMG_20251224_173150.jpg)
-- Core Java Programming
-- Java Notes (OOPs, Collections, JDBC, Multithreading, etc.)
-- Spring Framework
-- Spring MVC
-- Spring Boot
-- REST API
-- Microservices
+
 
 ---
 
