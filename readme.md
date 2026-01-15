@@ -35,29 +35,24 @@
 
 # 📘 Programming Notes Repository
 
-😊 **Happy Learning!**
-
-
 ## 🌐 Frontend Technologies (Order Wise)
 
-
-| Order | Technology | Link |
-|-----|-----------|------|
-| 1️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Core Java** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/java) |
-| 2️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> **HTML** | [Open](https://github.com/kRamu81/Notes/tree/main/HTML) |
-| 3️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> **CSS** | [Open](https://github.com/kRamu81/Notes/tree/main/CSS) |
-| 4️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** | [Open](https://github.com/kRamu81/Notes/tree/main/Javascript) |
-| 5️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> **Git & GitHub** | [Open](https://github.com/kRamu81/Notes/tree/main/Git%26GitHub) |
-| 6️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React** | [Open](https://github.com/kRamu81/Notes/tree/main/React) |
+| No. | Technology | Link |
+|----|-----------|------|
+| 1️⃣ | HTML | [Open](https://github.com/kRamu81/Notes/tree/main/HTML) |
+| 2️⃣ | CSS | [Open](https://github.com/kRamu81/Notes/tree/main/CSS) |
+| 3️⃣ | Bootstrap | [Open](https://github.com/kRamu81/Notes/tree/main/Bootstrap) |
+| 4️⃣ | JavaScript | [Open](https://github.com/kRamu81/Notes/tree/main/Javascript) |
+| 5️⃣ | Git & GitHub | [Open](https://github.com/kRamu81/Notes/tree/main/Git%26GitHub) |
+| 6️⃣ | React | [Open](https://github.com/kRamu81/Notes/tree/main/React) |
 
 ---
 
-### 🗄️ Database
+## 🗄️ Database (Order Wise)
 
-| Technology | Link |
-|-----------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> **MySQL / SQL** | [Open](https://github.com/kRamu81/Notes/tree/main/SQL) |
-
+| No. | Topic | Link |
+|----|------|------|
+| 1️⃣ | SQL | [Open](https://github.com/kRamu81/Notes/tree/main/SQL) |
 
 ---
 
@@ -84,6 +79,18 @@
 
 ## 🎯 Purpose of This Repository
 - 📚 Easy-to-understand notes  
+- 🧑‍🎓 Student-friendly  
+- 🔁 Quick revision before exams/interviews  
+- 🚀 Step-by-step learning order  
 
+---
 
+## ⭐ Support
+If this repository helps you:
+- ⭐ Star the repo  
+- 🍴 Fork it  
+- 📤 Share with friends  
 
+---
+
+**Happy Coding 💻✨**
