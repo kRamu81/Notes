@@ -1,4 +1,5 @@
 ## Frontend, Java Backend, and Computer Science fundamentals.
+![Java RoadmapDiagram](Assets/fsd.png)
 
 ## 📂 Contents of This Repository
 
