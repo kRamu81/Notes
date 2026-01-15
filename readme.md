@@ -40,22 +40,24 @@
 
 ## 🌐 Frontend Technologies (Order Wise)
 
-| No. | Technology | Link |
-|----|-----------|------|
-| 1️⃣ | HTML | [Open](https://github.com/kRamu81/Notes/tree/main/HTML) |
-| 2️⃣ | CSS | [Open](https://github.com/kRamu81/Notes/tree/main/CSS) |
-| 3️⃣ | Bootstrap | [Open](https://github.com/kRamu81/Notes/tree/main/Bootstrap) |
-| 4️⃣ | JavaScript | [Open](https://github.com/kRamu81/Notes/tree/main/Javascript) |
-| 5️⃣ | Git & GitHub | [Open](https://github.com/kRamu81/Notes/tree/main/Git%26GitHub) |
-| 6️⃣ | React | [Open](https://github.com/kRamu81/Notes/tree/main/React) |
+
+| Order | Technology | Link |
+|-----|-----------|------|
+| 1️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Core Java** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/java) |
+| 2️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> **HTML** | [Open](https://github.com/kRamu81/Notes/tree/main/HTML) |
+| 3️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> **CSS** | [Open](https://github.com/kRamu81/Notes/tree/main/CSS) |
+| 4️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** | [Open](https://github.com/kRamu81/Notes/tree/main/Javascript) |
+| 5️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> **Git & GitHub** | [Open](https://github.com/kRamu81/Notes/tree/main/Git%26GitHub) |
+| 6️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React** | [Open](https://github.com/kRamu81/Notes/tree/main/React) |
 
 ---
 
-## 🗄️ Database (Order Wise)
+### 🗄️ Database
 
-| No. | Topic | Link |
-|----|------|------|
-| 1️⃣ | SQL | [Open](https://github.com/kRamu81/Notes/tree/main/SQL) |
+| Technology | Link |
+|-----------|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> **MySQL / SQL** | [Open](https://github.com/kRamu81/Notes/tree/main/SQL) |
+
 
 ---
 
@@ -85,59 +87,3 @@
 
 
 
-3# 📘 Programming Notes Repository
-
-😊 **Happy Learning!**
-
-This repository contains **well-structured notes** for **Frontend, Database, and Java technologies**, arranged in a **proper learning roadmap** with icons for easy understanding.
-
----
-
-## 🚀 Learning Roadmap (Order Wise)
-
-### ☕ Core & Frontend Technologies
-
-| Order | Technology | Link |
-|-----|-----------|------|
-| 1️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> **Core Java** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/java) |
-| 2️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> **HTML** | [Open](https://github.com/kRamu81/Notes/tree/main/HTML) |
-| 3️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> **CSS** | [Open](https://github.com/kRamu81/Notes/tree/main/CSS) |
-| 4️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** | [Open](https://github.com/kRamu81/Notes/tree/main/Javascript) |
-| 5️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> **Git & GitHub** | [Open](https://github.com/kRamu81/Notes/tree/main/Git%26GitHub) |
-| 6️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> **React** | [Open](https://github.com/kRamu81/Notes/tree/main/React) |
-
----
-
-### 🗄️ Database
-
-| Technology | Link |
-|-----------|------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/> **MySQL / SQL** | [Open](https://github.com/kRamu81/Notes/tree/main/SQL) |
-
----
-
-### 🔗 Java Backend Technologies
-
-| Order | Technology | Link |
-|-----|-----------|------|
-| 1️⃣ | **JDBC** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/JDBC) |
-| 2️⃣ | **Servlets & JSP** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Servlet%20%26%20Jsp) |
-| 3️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> **Spring Framework** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20Framework) |
-| 4️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> **Spring MVC** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20MVC) |
-| 5️⃣ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25"/> **Spring Boot** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Spring%20boot) |
-| 6️⃣ | **REST API** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Rest%20API) |
-| 7️⃣ | **Hibernate** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes) |
-| 8️⃣ | **Microservices** | [Open](https://github.com/kRamu81/Notes/tree/main/Java%20Notes/Microservices) |
-
----
-
-## 🎯 Purpose of This Repository
-- 📚 Beginner-friendly notes  
-- 🧑‍🎓 Useful for students  
-- 🔁 Quick revision material  
-- 🚀 Follows real-world learning order  
-
----
-
-## ⭐ Support
-If this repository helps you:
