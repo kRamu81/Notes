@@ -1,4 +1,4 @@
-**Frontend, Java Backend, and Computer Science fundamentals**.
+## **Frontend, Java Backend, and Computer Science fundamentals**.
 
 ## 📂 Contents of This Repository
 
