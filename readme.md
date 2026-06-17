@@ -1,13 +1,6 @@
 ## Frontend, Java Backend, and Computer Science fundamentals.
 ![Java RoadmapDiagram](Assets/fsd.png)
 
-## 📂 Contents of This Repository
-
-![Java RoadmapDiagram](Assets/fsd1.png)
-
-![Java RoadmapDiagram](Assets/IMG_20251224_173150.jpg)
-
-
 ---
 
 ### 🧠 Computer Science Subjects
