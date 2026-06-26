@@ -18,7 +18,8 @@ Solution: use **App Engine Studio** — no coding needed!
 
 
 **4.** Click **Get Started** on the welcome dialog box.
-<img width="802" height="670" alt="image" src="https://github.com/user-attachments/assets/9b838c25-5959-42a8-936f-50c5286b4c35" />
+<img width="1680" height="1247" alt="image" src="https://github.com/user-attachments/assets/3b0c4d66-5035-4456-a444-31beee4c3a44" />
+
 
 
 **5.** Click **Create app** (top right of AES homepage)
