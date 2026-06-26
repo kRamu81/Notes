@@ -12,6 +12,8 @@ It lets **anyone** build apps visually — no coding experience needed.
 ## Why is it Used?
 
 Businesses face these common problems every day:
+<img width="900" height="310" alt="image" src="https://github.com/user-attachments/assets/74f787af-2fc1-4b6c-94ba-c3698534c5bf" />
+
 
 - Too many **manual processes** (emails, spreadsheets, paper forms)
 - Information stuck in **disconnected systems** and silos
@@ -23,6 +25,8 @@ AES solves this by letting **business people build their own apps** without wait
 ---
 
 ## Who Can Use It?
+<img width="765" height="230" alt="image" src="https://github.com/user-attachments/assets/bcf17e77-1d1a-409f-b29b-544707303538" />
+
 
 | Type | Who |
 |---|---|
@@ -66,11 +70,13 @@ All three can work on the **same app** in the **same environment**.
 
 ## Development Lifecycle (Best Practice)
 
-**Dev Instance** → build and test your app here first
-**Test Instance** → admin reviews and tests thoroughly
+**Dev Instance** → build and test your app here first 
+**Test Instance** → admin reviews and tests thoroughly 
 **Production Instance** → live app for all users
 
 > Never build directly on Production!
+<img width="756" height="175" alt="image" src="https://github.com/user-attachments/assets/d0574959-c4f1-4730-935a-e9443d0aab5e" />
+
 
 ---
 
