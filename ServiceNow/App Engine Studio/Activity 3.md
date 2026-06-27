@@ -1,4 +1,4 @@
-<img width="1680" height="866" alt="image" src="https://github.com/user-attachments/assets/536dd83a-0eef-44a0-8ffe-bdab782ce747" /><img width="1680" height="491" alt="image" src="https://github.com/user-attachments/assets/28e09566-b4de-45d4-87e4-cf3f71fb241b" /># Activity 3 – Update Table Fields and Form
+# Activity 3 – Update Table Fields and Form
 
 ## Scenario
 Add and configure fields in the **Issues table** using Table Builder.
